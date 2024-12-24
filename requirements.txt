@@ -1,0 +1,26 @@
+# Install Pandas
+pandas
+
+# Install tensorflow
+tensorflow
+
+# Install OpenCV
+opencv-python
+
+# Install Scikit-learn
+scikit-learn
+
+# Install Matplotlib
+matplotlib
+
+# Install Seaborn (Opsional, untuk visualisasi tambahan)
+seaborn
+
+# Install Kaggle CLI (untuk download dataset dari Kaggle)
+kaggle
+
+# Install Streamlit
+streamlit
+
+# Install Plotly
+plotly
