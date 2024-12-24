@@ -12,7 +12,7 @@ class cfg:
 
 # Fungsi untuk memuat model
 def load_model():
-    model_path = 'model/final_model.keras'
+    model_path = 'final_model.keras'
     model = tf.keras.models.load_model(model_path)
     return model
 
